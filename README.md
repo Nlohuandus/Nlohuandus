@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Nicolas Lohuandus, from Buenos Aires, Argentina.  I’m a student in computer systems, and i have recently finished the [Soy Henry bootcamp!](https://www.soyhenry.com/).
+ I'm Nicolas Lohuandus, from Buenos Aires, Argentina.  I’m a student in computer systems 👨‍💻, and i have recently finished the [Soy Henry bootcamp!](https://www.soyhenry.com/).
 I love learning new things and i love programming, so here you can see my bootcamp, university and personal projects (many uploads in progress).
 - In the university I have learned:
   - Java
@@ -18,6 +18,7 @@ I love learning new things and i love programming, so here you can see my bootca
   - Sequelize
   - GraphQL
 
+📫 You can contact me by [Email](mailto:nlohuandus@gmail.com) 
 <!--
 **Nlohuandus/Nlohuandus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
