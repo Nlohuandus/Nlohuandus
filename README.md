@@ -4,7 +4,7 @@ I love learning new things and i love programming, so here you can see my bootca
 - In the university I have learned:
   - Java
   - Python
-  - Poo
+  - OOP
   - Data structures
   - (More incoming)
 - In Soy Henry bootcamp i have learned:
