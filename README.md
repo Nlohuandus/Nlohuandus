@@ -18,7 +18,7 @@ I love learning new things and i love programming, so here you can see my bootca
   - Sequelize
   - GraphQL
 
-📫 You can contact me by [Email](mailto:nlohuandus@gmail.com) 
+📫 You can contact me by [Email](mailto:nlohuandus@gmail.com) or by [LinkedIn](https://www.linkedin.com/in/nlohuandus/)
 <!--
 **Nlohuandus/Nlohuandus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
