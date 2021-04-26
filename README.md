@@ -17,6 +17,8 @@ I love learning new things and i love programming, so here you can see my bootca
   - Redux
   - Sequelize
   - GraphQL
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nlohuandus&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2a9d8f&icon_color=2a9d8f&text_color=2a9d8f&bg_color=0,000000,264653" alt="Nlohuandus stats">
+  
 
 📫 You can contact me by [Email](mailto:nlohuandus@gmail.com) or by [LinkedIn](https://www.linkedin.com/in/nlohuandus/)
 <!--
