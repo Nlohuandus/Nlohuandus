@@ -21,6 +21,14 @@ I love learning new things and i love programming, so here you can see my bootca
   
 
 📫 You can contact me by [Email](mailto:nlohuandus@gmail.com) or by [LinkedIn](https://www.linkedin.com/in/nlohuandus/)
+
+
+
+[Code Bakery e-commerce](https://www.codebakery.store/):
+
+
+<img width=800px src="https://user-images.githubusercontent.com/45158207/117516528-c79b3380-af6f-11eb-9501-c3e5f39c3388.png"/>
+<img width=800px src="https://user-images.githubusercontent.com/45158207/117516744-53ad5b00-af70-11eb-8adf-342c655ef6bf.png"/>
 <!--
 **Nlohuandus/Nlohuandus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
